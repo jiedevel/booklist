@@ -1,5 +1,19 @@
 # Matlab series
 
-Matlab图像处理实例详解.pdf
-数字图像处理.pdf(Matlab)
+
+Image Analysis for Ophthalmological Diagnosis: Image Processing of Corvis ® ST Images
+Using Matlab ® (pdf)    Robert Koprowski
+
+
+Programming for Computations – MATLAB/Octave: A Gentle Introduction to Numerical
+Simulations with MATLAB/Octave (pdf)  Svein Linge,  Hans Petter Langtangen
+
+
+
+MATLAB图像处理实例详解(pdf)  杨丹，赵海滨，龙泽等
+
+
+数字图像处理(第二版)（pdf) Rafael C. Gonzales, Richard E. Woods 著 孪秋琦 栾宇智 等译
+
+
 Matlab神经网络原理与实例详解.pdf
