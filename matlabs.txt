@@ -22,37 +22,37 @@ Computation and Modeling (pdf)
 
 
 Digital Signal Processing with Matlab Examples, Volume 1: 
-Signals and Data, Filtering, Non-stationary Signals, Modulation
+Signals and Data, Filtering, Non-stationary Signals, Modulation (pdf)
 作者: Jose Maria Giron-Sierra
 
 
 Digital Signal Processing with Matlab Examples,Volume 2:
-Decomposition, Recovery, Data-Based Actions
+Decomposition, Recovery, Data-Based Actions (pdf)
 作者: Jose Maria Giron-Sierra
 
 
 Digital Signal Processing with Matlab Examples, Volume 3:
-Model-Based Actions and Sparse Representation
+Model-Based Actions and Sparse Representation (pdf)
 作者: Jose Maria Giron-Sierra
 
 
-Linear Programming Using MATLAB
-作者: Nikolaos Ploskas  Nikolaos Samaras
+Linear Programming Using MATLAB (pdf)
+作者: Nikolaos Ploskas  Nikolaos Samaras 
 
 
 MATLAB Deep Learning:
-With Machine Learning, Neural Networks and Artificial Intelligence
+With Machine Learning, Neural Networks and Artificial Intelligence (pdf)
 作者: Phil Kim
 
-MATLAB Machine Learning
+MATLAB Machine Learning (pdf)
 作者: Michael Paluszek,Stephanie Thomas
 
-Multivariable Calculus with MATLAB
+Multivariable Calculus with MATLAB (pdf)
 作者: Ronald L. Lipsman, Jonathan M. Rosenberg
 
 
-Robotics,Vision and Control:
-Fundamental Algorithms in MATLAB
+Robotics,Vision and Control: 
+Fundamental Algorithms in MATLAB (pdf)
 作者: Peter Corke
 作者:
 
