@@ -36,6 +36,25 @@ Model-Based Actions and Sparse Representation
 作者: Jose Maria Giron-Sierra
 
 
+Linear Programming Using MATLAB
+作者: Nikolaos Ploskas  Nikolaos Samaras
+
+
+MATLAB Deep Learning:
+With Machine Learning, Neural Networks and Artificial Intelligence
+作者: Phil Kim
+
+MATLAB Machine Learning
+作者: Michael Paluszek,Stephanie Thomas
+
+Multivariable Calculus with MATLAB
+作者: Ronald L. Lipsman, Jonathan M. Rosenberg
+
+
+Robotics,Vision and Control:
+Fundamental Algorithms in MATLAB
+作者: Peter Corke
+作者:
 
 MATLAB图像处理实例详解 (pdf)  
 作者: 杨丹，赵海滨，龙泽等
@@ -51,4 +70,4 @@ MATLAB数值分析与应用(pdf)
 
 
 Matlab神经网络原理与实例精解 (pdf)
-作者: 陈明
+作者: 陈明 等
