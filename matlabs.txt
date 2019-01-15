@@ -54,6 +54,12 @@ Multivariable Calculus with MATLAB (pdf)
 Robotics,Vision and Control: 
 Fundamental Algorithms in MATLAB (pdf)
 作者: Peter Corke
+
+Multi-Disciplinary Digital Signal Processing:
+A Functional Approach Using Matlab (pdf)
+作者: E.S. Gopi
+
+
 作者:
 
 MATLAB图像处理实例详解 (pdf)  
