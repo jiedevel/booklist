@@ -1,0 +1,40 @@
+# Python series
+
+Advanced Data Analytics Using Python: 
+With Machine Learning, Deep Learning and NLP Examples (pdf)
+作者: Sayan Mukhopadhyay
+
+
+Applied Natural Language Processing with Python：
+Implementing Machine Learning and Deep Learning Algorithms 
+for Natural Language Processing (pdf)
+作者: Taweh Beysolow II
+
+
+Applied Scientific Computing With Python (pdf)
+作者: Peter R. Turner, Thomas Arildsen, Kathleen Kavanagh
+
+
+Data Analysis and Visualization Using Python: 
+Analyze Data to Create Visualizations for BI Systems (pdf)
+作者: Dr. Ossama Embarak
+
+
+Deep Learning for Natural Language Processing:
+Creating Neural Networks with Python (pdf)
+作者: Palash Goyal, Sumit Pandey, Karan Jain
+
+
+Dynamical Systems with Applications using Python (pdf)
+作者: Stephen Lynch
+
+
+Learn Data Analysis with Python: Lessons in Coding (pdf)
+作者: A.J. Henley, Dave Wolf
+
+
+
+Learn to Program with Python 3:
+A Step-by-Step Guide to Programming (Second Edition) (pdf)
+作者: Irv Kalb
+
