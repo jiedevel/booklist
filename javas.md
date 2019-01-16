@@ -5,93 +5,49 @@ A Study Guide (pdf)
 作者: Iuliana Cosmina
 
 Spring REST:
-REST AND WEB SERVICES DEVELOPMENT USING SPRING
+REST AND WEB SERVICES DEVELOPMENT USING SPRING (pdf)
 作者: Balaji Varanasi, Sudha Belida
 
+Beginning Java 9 Fundamentals:
+Arrays, Objects, Modules, JShell, and Regular Expressions 
+(Second Edition)(pdf)
+作者: Kishori Sharan
 
-Applied Scientific Computing With Python (pdf)
-作者: Peter R. Turner, Thomas Arildsen, Kathleen Kavanagh
-
-
-Data Analysis and Visualization Using Python: 
-Analyze Data to Create Visualizations for BI Systems (pdf)
-作者: Dr. Ossama Embarak
-
-
-Deep Learning for Natural Language Processing:
-Creating Neural Networks with Python (pdf)
-作者: Palash Goyal, Sumit Pandey, Karan Jain
+Computer Graphics for Java Programmers (Third Edition) (pdf)
+作者: Leen Ammeraal,  Kang Zhang
 
 
-Dynamical Systems with Applications using Python (pdf)
-作者: Stephen Lynch
+Fuzzy Logic for Image Processing:
+A Gentle Introduction Using Java (pdf)
+作者: Laura Caponetti, Giovanna Castellano
 
 
-Learn Data Analysis with Python: Lessons in Coding (pdf)
-作者: A.J. Henley, Dave Wolf
+Pro Java Clustering and Scalability:
+Building Real-Time Apps with Spring, Cassandra, Redis,
+WebSocket and RabbitMQ (pdf)
+作者: Jorge Acetozi
 
 
-
-Learn to Program with Python 3:
-A Step-by-Step Guide to Programming (Second Edition) (pdf)
-作者: Irv Kalb
-
-
-Make Your Own Python Text Adventure:
-A Guide to Learning Programming (pdf)
-作者: Phillip Johnson
-
-
-MySQL Connector/Python:
-Revealed SQL and NoSQL Data Storage Using MySQL for Python Programmers
-作者: Jesper Wisborg Krogh
-
-
-Personal Finance with Python:
-Using pandas, Requests, and Recurrent
-作者: Max Humber
-
-
-Practical Docker with Python:
-Build, Release and Distribute your Python App with Docker
-作者: Sathyajith Bhat
-
-
-Practical Machine Learning with Python:
-A Problem-Solver’s Guide to Building Real-World Intelligent Systems
-作者: Dipanjan Sarkar, Raghav Bali, Tushar Sharma
-
-
-Practical Python AI Projects:
-Mathematical Models of Optimization Problems with Google OR-Tools （pdf)
-作者: Serge Kruk
-
-
-Practical Social Network Analysis with Python (pdf)
-作者: Krishna Raj, P. M. Ankith Mohan, K. G. Srinivasa
+Beginning Apache Spark 2:
+With Resilient Distributed Datasets, Spark SQL, Structured
+Streaming and Spark Machine Learning library (pdf)
+作者: Hien Luu
 
 
 
-Python Data Analytics:
-With Pandas, NumPy, and Matplotlib (Second Edition)(pdf)
-作者: Fabio Nelli
+Beginning EJB in Java EE 8:
+Building Applications with Enterprise JavaBeans 
+(Third Edition) (pdf)
+作者: Jonathan Wetherbee, Massimo Nardone, Chirag Rathod, 
+Raghu Kodali
 
 
-Python Graphics:
-A Reference for Creating 2D and 3D Images (pdf)
-作者: B.J. Korites
+Eclipse TEA Revealed:
+Building Plug-ins and Creating
+Extensions for Eclipse (pdf)
+作者: Markus Duft
 
 
-Website Scraping with Python:
-Using BeautifulSoup and Scrapy (pdf)
-作者: Gábor László Hajba
-
-
-Python自然语言处理 (pdf)
-作者: Steven Bird, Ewan Klein & Edward Loper
-译者: 陈涛
-
-
-Python核心编程(第二版) (pdf)
-作者: Wesley J. Chun
-译者: 宋吉广
+Exploring Java 9:
+Build Modularized Applications in Java
+作者: Fu Cheng
